@@ -1,4 +1,5 @@
 ipython
+gym
 jupyter
 matplotlib
 numpy
